@@ -1,5 +1,5 @@
-# portfolio-simple-website
-I created this page using only HTML and basic CSS. This is my very first website page. Thanks John bro, for making lessons easy.
+# My portfolio-website
+I created this page using only HTML and basic CSS. This is my very first website page.
 # Your Portfolio Website
 
 Welcome to my portfolio website! This project includes a home page and a contact page, showcasing my skills, projects, and ways to get in touch with me.
